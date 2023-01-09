@@ -1,0 +1,44 @@
+<div class="one-third first" itemscope itemtype="http://schema.org/Review">
+    <meta itemprop="description" content="Website Description">
+    <meta itemprop="datePublished" content="2023-01-09">
+    <link itemprop="url" href="https://domain.tld/" rel="author"/>
+    <div class="quote" itemprop="reviewBody" style="display:block;"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </div>
+    <div class="quote-arrow"></div>
+    <center><h5><span itemprop="author" itemscope itemtype="http://schema.org/Person" style="display:block;"><span itemprop="name">Reviewer</span></span></h5>
+    <h6>Title - <a href="https://reflexmedicalmolding.com/" target="_blank" >Company</a></h6>
+    <img src="https://secure.gravatar.com/avatar/" alt="Gravatar"><br />
+    <div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+        <span itemprop="ratingValue">5</span> out of <span itemprop="bestRating">5</span>
+    </div><center>
+</div>
+
+<div class="one-third" itemscope itemtype="http://schema.org/Review">
+    <meta itemprop="description" content="Website Description">
+    <meta itemprop="datePublished" content="2023-01-09">
+    <link itemprop="url" href="https://domain.tld/" rel="author"/>
+    <div class="quote" itemprop="reviewBody" style="display:block;"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </div>
+    <div class="quote-arrow"></div>
+    <center><h5><span itemprop="author" itemscope itemtype="http://schema.org/Person" style="display:block;"><span itemprop="name">Reviewer</span></span></h5>
+    <h6>Title - <a href="https://reflexmedicalmolding.com/" target="_blank" >Company</a></h6>
+    <img src="https://secure.gravatar.com/avatar/" alt="Gravatar"><br />
+    <div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+        <span itemprop="ratingValue">5</span> out of <span itemprop="bestRating">5</span>
+    </div><center>
+</div>
+
+<div class="one-third" itemscope itemtype="http://schema.org/Review">
+    <meta itemprop="description" content="Website Description">
+    <meta itemprop="datePublished" content="2023-01-09">
+    <link itemprop="url" href="https://domain.tld/" rel="author"/>
+    <div class="quote" itemprop="reviewBody" style="display:block;"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </div>
+    <div class="quote-arrow"></div>
+    <center><h5><span itemprop="author" itemscope itemtype="http://schema.org/Person" style="display:block;"><span itemprop="name">Reviewer</span></span></h5>
+    <h6>Title - <a href="https://reflexmedicalmolding.com/" target="_blank" >Company</a></h6>
+    <img src="https://secure.gravatar.com/avatar/" alt="Gravatar"><br />
+    <div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+        <span itemprop="ratingValue">5</span> out of <span itemprop="bestRating">5</span>
+    </div><center>
+</div>
