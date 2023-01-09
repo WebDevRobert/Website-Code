@@ -1,0 +1,14 @@
+<div itemscope itemtype="http://schema.org/LocalBusiness">
+    <img itemprop="logo" src="//logo.url" alt="alt text" />
+    <h2><i class="fa fa-building"></i> <span itemprop="name">Business Name</span></h2>
+    <p><span itemprop="description">Business Description</span></p>
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="streetAddress">Business Street Address</span><br />
+        <span itemprop="addressLocality">City</span>, <span itemprop="addressRegion">State</span> <span itemprop="postalCode">ZIP</span>
+    </div>
+    <p>Phone: <span itemprop="telephone">(XXX) XXX-XXXX</span><br />
+    Fax: <span itemprop="faxNumber">(XXX) XXX-XXXX</span><br />
+    <br />
+    <a itemprop="url" href="//tyrochristian.org/">https://domain.tld/</a><br />
+    <a href="//tyrochristian.org/contact/" itemprop="email">username@domain.tld</a></p>
+</div>
